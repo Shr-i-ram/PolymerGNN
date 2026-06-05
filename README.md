@@ -6,7 +6,7 @@
 
 The primary prediction interface featuring molecular visualization, molecular descriptors, categorized property prediction, and interactive analytics.
 
-![Main Dashboard](screenshots/Dashboard.png)
+![Main Dashboard](Screenshots/Dashboard.png)
 
 ---
 
@@ -16,19 +16,19 @@ The primary prediction interface featuring molecular visualization, molecular de
 
 Interactive 3D molecular rendering alongside molecular information and predicted material properties.
 
-![Prediction Interface](screenshots/PolymerPrediction1.png)
+![Prediction Interface](Screenshots/PolymerPrediction1.png)
 
 ### Categorized Property Analysis
 
 Thermal, mechanical, gas transport, dielectric, electronic, and structural property predictions.
 
-![Property Analysis](screenshots/PolymerPrediction2.png)
+![Property Analysis](Screenshots/PolymerPrediction2.png)
 
 ### Radar Chart Material Profile
 
 Visual comparison of key predicted material characteristics.
 
-![Material Profile Radar Chart](screenshots/PolymerPrediction3.png)
+![Material Profile Radar Chart](Screenshots/PolymerPrediction3.png)
 
 ---
 
@@ -38,13 +38,13 @@ Visual comparison of key predicted material characteristics.
 
 Compare two molecular structures and evaluate their predicted properties.
 
-![Comparison Interface](screenshots/PolymerComparison1.png)
+![Comparison Interface](Screenshots/PolymerComparison1.png)
 
 ### Comparative Property Screening
 
 Radar-chart-based comparison and property benchmarking for material selection.
 
-![Comparison Analytics](screenshots/PolymerComparison2.png)
+![Comparison Analytics](Screenshots/PolymerComparison2.png)
 
 ```
 ```

@@ -1,5 +1,14 @@
 # 🧪 PolymerGNN: Multi-Property Polymer Prediction Platform
 
+### 🚀 Live Demo
+
+**Try the application here:**  
+https://polymergnn-28hntqgucsqwgdo8dcjvos.streamlit.app/
+
+![Main Dashboard](screenshots/Dashboard.png)
+
+Graph Neural Network for Multi-Property Polymer Prediction and Materials Informatics.
+
 ## 📸 Application Screenshots
 
 ### Main Dashboard

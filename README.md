@@ -5,7 +5,7 @@
 **Try the application here:**  
 https://polymergnn-28hntqgucsqwgdo8dcjvos.streamlit.app/
 
-![Main Dashboard](screenshots/Dashboard.png)
+![Main Dashboard](Screenshots/Dashboard.png)
 
 Graph Neural Network for Multi-Property Polymer Prediction and Materials Informatics.
 
